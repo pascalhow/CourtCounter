@@ -3,4 +3,4 @@ Android application that keeps track of the scores for a basketball game. This i
 
 ###### Court Counter Main Screen
 ![alt tag](https://github.com/pascalhow/CourtCounter/blob/master/CourtCounter.png) 
-<img src="https://github.com/pascalhow/CourtCounter/blob/master/CourtCounter.png" width=40>
+<img src="https://github.com/pascalhow/CourtCounter/blob/master/CourtCounter.png" width="10">
